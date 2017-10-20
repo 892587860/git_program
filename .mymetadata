@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="hydrologys"
+  id="myeclipse.1508241460603"
+  context-root="/hydrologys"
+  j2ee-spec="6.0"
+  archive="hydrologys.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
